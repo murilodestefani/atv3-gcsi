@@ -1,18 +1,9 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Java com Padrão Strategy
 
-## Folder Structure
+Esse projeto busca demonstrar as vantagens do padrão Strategy na criação de um sistema de ordenação adaptável e extensível, fornecendo aos desenvolvedores uma ferramenta poderosa para lidar com diferentes cenários de ordenação de maneira eficiente e organizada.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Autor
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [@murilo_destefani](https://www.instagram.com/murilo_destefani)
